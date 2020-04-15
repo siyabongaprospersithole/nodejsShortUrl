@@ -1,0 +1,4 @@
+{
+  "mongoURI" : "mongo-connectin-link",
+  "baseURL": "your-local-link-you-running"
+}
